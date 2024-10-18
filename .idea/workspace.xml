@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3eea178-8081-4fe9-921d-1478514ea3a6" name="Changes" comment="main.java framed out - need to review and debug">
-      <change afterPath="$PROJECT_DIR$/ToDoList/Task.java" afterDir="false" />
+    <list default="true" id="f3eea178-8081-4fe9-921d-1478514ea3a6" name="Changes" comment="Added TaskList.java - to be reviewed and debugged">
+      <change afterPath="$PROJECT_DIR$/ToDoList/TaskNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoList/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +66,29 @@
       <option name="project" value="LOCAL" />
       <updated>1729294747829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Task.java - to be reviewed and debuggged">
+      <option name="closed" value="true" />
+      <created>1729295141181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729295141182</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added TaskList.java - to be reviewed and debugged">
+      <option name="closed" value="true" />
+      <created>1729295330966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729295330966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.java framed out - need to review and debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.java framed out - need to review and debug" />
+    <MESSAGE value="Added Task.java - to be reviewed and debuggged" />
+    <MESSAGE value="Added TaskList.java - to be reviewed and debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added TaskList.java - to be reviewed and debugged" />
   </component>
 </project>
